@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Chill.
 <br>
 - 🌱 I’m currently learning React js.<br>
-- 💥 I’m a B.tech 3rd year undergrad at National Institute Of Technology Agartala...<br>
+- 💥 I’m a B.tech final year undergrad at National Institute Of Technology Agartala...<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
